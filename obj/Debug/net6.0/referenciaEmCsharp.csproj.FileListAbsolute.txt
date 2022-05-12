@@ -1,0 +1,15 @@
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.csproj.AssemblyReference.cache
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.AssemblyInfoInputs.cache
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.AssemblyInfo.cs
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.csproj.CoreCompileInputs.cache
+C:\Git\csharp-exemplo\referenciaEmCsharp\bin\Debug\net6.0\referenciaEmCsharp.exe
+C:\Git\csharp-exemplo\referenciaEmCsharp\bin\Debug\net6.0\referenciaEmCsharp.deps.json
+C:\Git\csharp-exemplo\referenciaEmCsharp\bin\Debug\net6.0\referenciaEmCsharp.runtimeconfig.json
+C:\Git\csharp-exemplo\referenciaEmCsharp\bin\Debug\net6.0\referenciaEmCsharp.dll
+C:\Git\csharp-exemplo\referenciaEmCsharp\bin\Debug\net6.0\referenciaEmCsharp.pdb
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.dll
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\refint\referenciaEmCsharp.dll
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.pdb
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\referenciaEmCsharp.genruntimeconfig.cache
+C:\Git\csharp-exemplo\referenciaEmCsharp\obj\Debug\net6.0\ref\referenciaEmCsharp.dll
